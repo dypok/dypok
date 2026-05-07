@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [nub3 webpage](https://github.com/dypok/nub3_webpage)
 
-- 🌱 I’m currently learning **Other db like mysql,**
+- 🌱 I’m currently learning **Other db like mysql or mongodb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dypok](https://github.com/dypok)
 
